@@ -1,0 +1,5 @@
+paho-mqtt-cpp1 (1.2.0-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Ethan Trevor <ethan@nandlab.com>  Sun, 13 Mar 2022 18:43:36 +0100
